@@ -1,8 +1,7 @@
-# Hi 👋🏼👨🏻‍💻
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=theeshengstermann)
-![Followers](https://img.shields.io/github/followers/theeshengstermann?style=social)
-----
-My name is Thees and i'm a web developer. I'm from Germany, living in Varel.
+![](https://visitor-badge.glitch.me/badge?page_id=theeshengstermann)
+![](https://img.shields.io/github/followers/theeshengstermann?label=follow&style=social)
+<h2>Hi 👋🏼👨🏻‍💻</h2>
+My name is Thees and i'm a full-stack web developer. I'm from Germany, living in Varel.
 - Currently: Front End Developer at Eventim
 - Previously: Full Stack Developer at Nordfrost
 <h2>📫 How to reach me:</h2>
