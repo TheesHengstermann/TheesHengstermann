@@ -1,5 +1,5 @@
 # Hi 👋🏼👨🏻‍💻
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theeshengstermann)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=theeshengstermann)
 [![GitHub followers](https://img.shields.io/github/followers/theeshengstermann.svg?style=social&label=Follow)](https://github.com/theeshengstermann?tab=followers)
 ----
 My name is Thees and i'm a web developer. I'm from Germany, living in Varel.
