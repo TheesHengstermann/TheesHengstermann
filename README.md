@@ -1,6 +1,6 @@
 # Hi 👋🏼👨🏻‍💻
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=theeshengstermann)
-[![GitHub followers](https://img.shields.io/github/followers/theeshengstermann.svg?style=social&label=Follow)](https://github.com/theeshengstermann?tab=followers)
+![Followers](https://img.shields.io/github/followers/theeshengstermann?style=social)
 ----
 My name is Thees and i'm a web developer. I'm from Germany, living in Varel.
 - Currently: Front End Developer at Eventim
