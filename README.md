@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theeshengstermann)
 # Hi 👋🏼👨🏻‍💻
-I'm Thees and I'm a web developer. I'm from Germany, living in Varel.
+My name is Thees and i'm a web developer. I'm from Germany, living in Varel.
 - Currently: Front End Developer at Eventim
 - Previously: Full Stack Developer at Nordfrost
 ## You can find me here:
