@@ -1,10 +1,10 @@
-## Hi there, i'm Thees! 👋🏼👨🏻‍💻
-German based Full Stack Web Developer. 
+### Hi there, i'm Thees! 👋🏼👨🏻‍💻
+I'm a Full Stack Web Developer from Germany.
 
 - Currently: Front End Developer at Eventim
 - Previously: Full Stack Developer at Nordfrost
 
-## 📫 How to reach me:
+#### 📫 How to reach me:
 
 <a href="mailto:info@thengstermann.dev">![](https://img.shields.io/badge/Mail-ffffff?style=flat&logo=protonmail&logoColor=black)</a>\
 <a href="https://www.linkedin.com/in/thees-hengstermann/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>\
