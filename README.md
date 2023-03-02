@@ -1,5 +1,6 @@
 ### Hi there, i'm Thees! 👋🏼👨🏻‍💻
-I'm a Full Stack Web Developer from Germany.
+I'm a Full Stack Web Developer from Germany 🇩🇪
+
 
 - Currently: Front End Developer at Eventim
 - Previously: Full Stack Developer at Nordfrost
