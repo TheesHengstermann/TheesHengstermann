@@ -1,5 +1,5 @@
 ### Hi there, i'm Thees! 👋🏼👨🏻‍💻
-I'm a Full Stack Web Developer from Germany 🇩🇪
+I'm a fullstack web developer from Germany 🇩🇪
 
 #### 📫 How to reach me:
 
