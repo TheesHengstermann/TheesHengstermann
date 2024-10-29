@@ -1,7 +1,9 @@
 ### Hi there, i'm Thees! 👋🏼👨🏻‍💻
+
+
 I'm a fullstack web developer from Germany 🇩🇪
 
-#### 📫 How to reach me:
+#### Lets get in touch! 📫
 
 <a href="mailto:info@thengstermann.dev">![](https://img.shields.io/badge/Mail-ffffff?style=flat&logo=protonmail&logoColor=black)</a>\
 <a href="https://www.linkedin.com/in/thees-hengstermann/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>\
